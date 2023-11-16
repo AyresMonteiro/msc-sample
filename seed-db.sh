@@ -5,7 +5,7 @@ curl -X POST -H "Content-Type: application/json" -d '{"model": "Chevy", "year": 
 curl -X POST -H "Content-Type: application/json" -d '{"model": "Tesla", "year": "2019", "rate": 1}' localhost:3000/api/car
 
 echo ""
-echo ""
-echo "db was seeded"
-echo ""
+echo "|-----------------------|"
+echo "| car db was seeded     |"
+echo "|-----------------------|"
 echo ""

@@ -22,8 +22,6 @@ const baseRouter = Router();
 controllers.forEach((controller) => {
   const router = Router();
 
-  console.log(controller);
-
   router.get("/", controller.object.get);
   router.get("/:id", controller.object.findById);
   router.post("/", controller.object.create);
