@@ -8,7 +8,7 @@ This is a project for a presentation to ParaíbaJS dev community.
 
 Run command on your terminal:
 
-    $ yarn build && yarn start
+    $ yarn install && yarn build && yarn start
 
 
 In another terminal, you can seed the database using
