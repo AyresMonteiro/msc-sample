@@ -4,4 +4,8 @@ curl -X POST -H "Content-Type: application/json" -d '{"model": "Ford", "year": "
 curl -X POST -H "Content-Type: application/json" -d '{"model": "Chevy", "year": "2018", "rate": 2}' localhost:3000/api/car
 curl -X POST -H "Content-Type: application/json" -d '{"model": "Tesla", "year": "2019", "rate": 1}' localhost:3000/api/car
 
-echo "\n\ndb was seeded\n\n"
+echo ""
+echo ""
+echo "db was seeded"
+echo ""
+echo ""
