@@ -4,7 +4,7 @@ This is a project for a presentation to ParaíbaJS dev community.
 
 ## How to Run
 
-- **Prerequisites**: Have node.js v16 or above installed in your environment.
+- **Prerequisites**: Have node.js v16 or above and yarn package manager installed in your environment.
 
 Run command on your terminal:
 
